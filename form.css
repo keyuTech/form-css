@@ -1,0 +1,19 @@
+table{
+    position: absolute;
+    border: 2px solid black;
+    height: 150px;
+    top: 50%;
+    margin-top: -75px;
+    width: 300px;
+    left: 50%;
+    margin-left: -150px;
+}
+th,td{
+    border: 1px solid black;
+}
+thead{
+    background-color: #ccc;
+}
+tr{
+    text-align: center;
+}
